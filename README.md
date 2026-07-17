@@ -1,8 +1,4 @@
-<img width="1886" height="785" alt="Screenshot 2026-07-17 134552" src="https://github.com/user-attachments/assets/f1c9dfc3-142a-462a-8a0c-8771f2b96d6a" />
-<img width="1895" height="847" alt="Screenshot 2026-07-17 134528" src="https://github.com/user-attachments/assets/e158c8ff-5fb6-4426-8b75-9129d21714b9" />
-<img width="1890" height="842" alt="Screenshot 2026-07-17 134509" src="https://github.com/user-attachments/assets/a2325bc8-f93b-49aa-9579-494193f26385" />
-<img width="1897" height="862" alt="Screenshot 2026-07-17 134422" src="https://github.com/user-attachments/assets/e8d0fb70-a403-47f9-8ce5-f6e4316aaef7" />
-<img width="1891" height="861" alt="Screenshot 2026-07-17 134406" src="https://github.com/user-attachments/assets/7de18092-1262-48d3-a15d-179f7b93415b" />
+
 <div align="center">
 
 # 🌊 HydraShield
@@ -177,7 +173,11 @@ Live Website:
 
 # 📸 Screenshots
 
-> Screenshots will be added as development progresses.
+> <img width="1886" height="785" alt="Screenshot 2026-07-17 134552" src="https://github.com/user-attachments/assets/f1c9dfc3-142a-462a-8a0c-8771f2b96d6a" />
+<img width="1895" height="847" alt="Screenshot 2026-07-17 134528" src="https://github.com/user-attachments/assets/e158c8ff-5fb6-4426-8b75-9129d21714b9" />
+<img width="1890" height="842" alt="Screenshot 2026-07-17 134509" src="https://github.com/user-attachments/assets/a2325bc8-f93b-49aa-9579-494193f26385" />
+<img width="1897" height="862" alt="Screenshot 2026-07-17 134422" src="https://github.com/user-attachments/assets/e8d0fb70-a403-47f9-8ce5-f6e4316aaef7" />
+<img width="1891" height="861" alt="Screenshot 2026-07-17 134406" src="https://github.com/user-attachments/assets/7de18092-1262-48d3-a15d-179f7b93415b" />
 
 ---
 
